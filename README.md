@@ -57,6 +57,18 @@ Write legal Java arithmetic expressions for the following:
 
 XY²Z
 
+Save your work.
+
+Check your work - you can use REPL.IT to do so.
+
+How many did you get correct? If you got any wrong, do you see what went wrong?
+
+---
+
+## SUBMIT
+
+Please submit the `tut-02` folder as **tut02** using `submit1501`.
+
 ---
 
 ## YOUR SKILL DRILLS
