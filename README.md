@@ -47,18 +47,15 @@ How many did you get correct? If you got any wrong, do you see what went wrong?
 
 On INS, create a file called `writing-expressions.txt` in `tut-02`.
 
+Write legal Java arithmetic expressions for the following:
+
 ![equation](http://latex.codecogs.com/gif.latex?A%20+%20%5Cfrac%7BB%7D%7BC%20+%20D%7D)
 
-Write Java arithmetic expressions for the following.
+(X - 1)(Y - 4)
 
-<pre>
-a) A + B
-C + D
-b) (X - 1)(Y - 4)
-c) -B + X
-2A
-d) XY2Z
-</pre>
+![equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7B-B%20+%20X%7D%7B2A%7D)
+
+XY²Z
 
 ---
 
