@@ -1,117 +1,71 @@
-# Tut-01
+# Tut-02
 
 ## WHAT WE'RE DOING
 
-- finding a partner
-- making sure you can get on INS
-- creating 2 algorithms with your partner
-- submitting your 2 algorithms
-- getting your first assignment
+Getting practice with
+
+- order of operations
+- writing mathematical expressions in Java
+- integer arithmetic
+- Strings
 
 ---
 
-## FINDING A PARTNER
+## GET READY
 
-Follow this algorithm:
+1. Get on INS
+1. Make a directory `tut-02`
 
-```
-If there is someone to your right
-  point at that person
-Else if there is someone to your left
-  point at that person
-Else
-  stick your hand up in the air
+---
 
-If you are pointing at someone who is pointing at you
-  partner with that person and ignore the rest of these instructions
-Else if your hand is not up and if there is someone to your left
-    point at that person
+## PRACTICE: ORDER OF OPERATIONS
 
-If you are pointing at someone who is pointing at you
-  partner with that person and ignore the rest of these instructions
-Else
-  stick your hand up in the air
+On INS, create a file called `order-of-ops.txt` in `tut-02`.
 
-Do the following starting with the front row until there are 1 or 0 people with their hands up
-  partner with the person closest behind you with their hand up
-```
+In that file, write down what numbers you think Java will produce when it evaluates these expressions.
 
-Sit down so that you are seated next to your partner - you decide how to do this because frankly I'm exhausted from the algorithm.
+<pre>
+a) -15.0 * 3.0 + 4.0
+b) -2.0 * (20.0 / 4.0 + 1.0) + 5.0
+c) 4.0 * 3.0 / 6.0
+d) 4.0 / 6.0 * 3.0
+e) 4 + 7 / 3 – 5
+f) 3 * 4 / 6
+g) 4 + 7 % 3 – 5
+h) (4 + 7) % 3 – 5
+</pre>
 
-Log in to your computer.
+Save your work.
 
-## MAKING SURE YOU CAN GET ON INS
+Check your work - you can use REPL.IT to do so.
 
-We did this on Thursday, but in case you weren't there, please log into INS.
+How many did you get correct? If you got any wrong, do you see what went wrong?
 
-If you don't know how to do this, ask your partner.
+---
 
-If both you and your partner don't know how to do this, ask another pair.
+## PRACTICE: WRITING MATHEMATICAL EXPRESSIONS IN JAVA
 
-If you have any issues logging in, call your instructor over.
+On INS, create a file called `writing-expressions.txt` in `tut-02`.
 
-## CREATING 2 ALGORITHMS
+![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
 
-Remember from lecture on Monday that we talked about the process used to program:
+Write Java arithmetic expressions for the following.
 
-1. Understand the problem
-1. Develop an algorithm
-1. Test the algorithm with simple inputs
-1. Translate the algorithm into Java
-1. Compile and test (repeat until "done")
+<pre>
+a) A + B
+C + D
+b) (X - 1)(Y - 4)
+c) -B + X
+2A
+d) XY2Z
+</pre>
 
-We'll be doing parts 1 through 3 in this lab.
+---
 
-We'll do one problem together, and then you can work on the next two with your partner.
+## YOUR SKILL DRILLS
 
-**For each algorithm, note any assumptions you have made.**
+Do the following drills on REPL.IT:
 
-### Demo: Sandwich Calorie Calculator
-
-We've been asked to create a program that calculates the total calories in a sandwich.
-
-Suppose we have the following caloric values:
-
-- one slice of bread = 63
-- one slice of cheese = 106
-- one Tablespoon of mayonnaise = 49
-- one pickle = 25
-- one slice of mystery meat = 43
-
-Design an algorithm to ask a user for a sandwich composition, calculate the total calories in that sandwich, and then report the result.
-
-### Algorithm 1: Better pairing
-
-Save this algorithm in a file called `algo-1.txt`.
-
-We followed an algorithm at the start of class to pair up. It wasn't the greatest. For example, it doesn't work that well if you have rows with more than 5 people in it...do you see why?
-
-Create an algorithm to create pairs that works for rows of any size > 0.
-
-Don't forget to give your algorithm a test drive.
-
-### Algorithm 2: House painting
-
-_(modified R1.15, p. 25 in the text)_
-
-Save this algorithm in a file called `algo-2.txt`.
-
-We are asked by a house painting company to create a program which estimates the paintable surface area of a house. They will use this to estimate how much paint they will need for a given job.
-
-Decide what inputs are necessary.
-
-You will need to make some assumptions to make this a manageable task; write these assumptions down with your solution.
-
-Don't forget to give your algorithm a test drive.
-
-## SUBMITTING YOUR 2 ALGORITHMS
-
-Put your algorithm file into a directory named `tut-01` and submit that directory via the `submit` command.
-
-## GETTING YOUR FIRST ASSIGNMENT
-
-Going forward, you will always find the starting code for assignments in `/users/library/csis/comp1501/assignments`.
-
-Copy the `1.asg` directory there to your home directory. If you can't remember what command to use, there's always the https://bit.ly/mru-1501-linux-ref
-
-Instructions for the assignment are here: https://github.com/MRU-CSIS-1501/201804.asg.01.documentation
+- tut-02 : integer arithmetic : 01
+- tut-02 : string work : 01
+- tut-02 : Math, arithmetic : 01
