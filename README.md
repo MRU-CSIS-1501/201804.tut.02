@@ -47,7 +47,7 @@ How many did you get correct? If you got any wrong, do you see what went wrong?
 
 On INS, create a file called `writing-expressions.txt` in `tut-02`.
 
-![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
+![equation](http://latex.codecogs.com/gif.latex?A%20+%20%5Cfrac%7BB%7D%7BC%20+%20D%7D)
 
 Write Java arithmetic expressions for the following.
 
