@@ -2,7 +2,17 @@
 
 ## WHAT WE'RE DOING
 
-Getting practice with
+Your instructor will talk about 10 minutes:
+
+- where to find outstanding issues with assignments
+- do you know that you can find suggested solutions for the REPLs?
+- did you call methods in lab-01 : calling-methods : 02?
+- String concatenation
+- casting ints to chars
+
+Making sure you can post questions (and answers) to Google Classroom
+
+Getting Java practice with
 
 - order of operations
 - writing mathematical expressions in Java
@@ -11,14 +21,21 @@ Getting practice with
 
 ---
 
-## GET READY
+## POST TO GOOGLE CLASSROOM
 
-1. Get on INS
-1. Make a directory `tut-02`
+1. Log in to Google Classroom: https://classroom.google.com/u/1/c/MTUxMTUxMzg4MTFa
+2. Post one question to the "Do you have any questions about anything else?" "forum"
+3. Answer another person's question in the same location
 
 ---
 
-## PRACTICE: ORDER OF OPERATIONS
+## ORDER OF OPERATIONS & MATHEMATICAL EXPRESSION IN JAVA
+
+1. Get on INS
+1. Make a directory `tut-02`
+1. Do the next two practices
+
+### PRACTICE: ORDER OF OPERATIONS
 
 On INS, create a file called `order-of-ops.txt` in `tut-02`.
 
@@ -41,13 +58,12 @@ Check your work - you can use REPL.IT to do so.
 
 How many did you get correct? If you got any wrong, do you see what went wrong?
 
----
 
-## PRACTICE: WRITING MATHEMATICAL EXPRESSIONS IN JAVA
+### PRACTICE: WRITING MATHEMATICAL EXPRESSIONS IN JAVA
 
 On INS, create a file called `writing-expressions.txt` in `tut-02`.
 
-Write legal Java arithmetic expressions for the following:
+Write legal Java arithmetic expressions for the following - you can choose whatever numbers you want for the variables in that expression (for example, for XY²Z, you could just choose 3 for X, 4 for Y, and -3 for Z):
 
 ![equation](http://latex.codecogs.com/gif.latex?A%20+%20%5Cfrac%7BB%7D%7BC%20+%20D%7D)
 
@@ -63,9 +79,8 @@ Check your work - you can use REPL.IT to do so.
 
 How many did you get correct? If you got any wrong, do you see what went wrong?
 
----
 
-## SUBMIT
+### SUBMIT
 
 Please submit the `tut-02` folder as **tut02** using `submit1501`.
 
